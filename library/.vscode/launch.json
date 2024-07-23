@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/tata/Desktop/student_projects_cpp/student_projects_c-/library",
+      "program": "/Users/tata/Desktop/student_projects_cpp/student_projects_c-/library/build/Debug/outDebug"
+    }
+  ]
+}
